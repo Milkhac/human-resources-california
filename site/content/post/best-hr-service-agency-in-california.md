@@ -14,7 +14,7 @@ image: img/a.png
 
 **Introduction**
 
-Human resource service agencies offer many benefits to businesses. One of the most important services they provide is employee recruitment, training and development, and Employee relations. Additionally, HR service agencies can provide payroll and payroll tax preparation for your business. When choosing an HR service agency in California, you should look for quality services and a reliable company. Some things to consider when searching for an HR service agency are the experience of the staff and their certification or accreditation.\
+[Human resource service agencies ](https://www.merithr.com/find-a-human-resources-consultant/)offer many benefits to businesses. One of the most important services they provide is employee recruitment, training and development, and Employee relations. Additionally, HR service agencies can provide payroll and payroll tax preparation for your business. When choosing an HR service agency in California, you should look for quality services and a reliable company. Some things to consider when searching for an HR service agency are the experience of the staff and their certification or accreditation.\
 \
 **What makes a good HR service agency?** \
 There are many things that you should consider before choosing a good HR service agency. First of all, the agency should have a good reputation and be able to provide references. Secondly, it is important for the agency to be able to provide a high-quality service at a reasonable price. Lastly, it is important that the agency has competitive rates so that your business can save money in the long run.\
