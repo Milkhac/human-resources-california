@@ -12,6 +12,12 @@ image: img/b.png
 ---
 <!--StartFragment-->
 
+<!--StartFragment-->
+
+###### [HR recruitment consultants](https://www.merithr.com/find-a-human-resources-consultant/?utm_source=bookmarking&utm_medium=a-november&utm_campaign=hr-consultant)
+
+<!--EndFragment-->
+
 Introduction \
 When it comes to HR recruitment in California, there are a lot of agencies to choose from. However, not all of them are created equal.\
 \
