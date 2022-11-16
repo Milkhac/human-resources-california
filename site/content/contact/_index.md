@@ -10,13 +10,12 @@ contact_entries:
       <h3 class="f4 b lh-title mb2">Silicon Valley Office</h3>
       333 W San Carlos St. Suite 600 San Jose, CA 95110
 ---
+<!--StartFragment-->
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Merit HR is a top human resources recruiting firm in the greater San Francisco Bay Area. With over 25 years of experience, our team has the expertise and connections to connect you with the best talent for your organization.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+
+At Merit HR, our mission is to connect talented professionals with leading organizations in the Bay Area and nationwide. Our dedication to quality recruitment ensures that our candidates are exceptional individuals who will add value to your organization.
+
+<!--EndFragment-->
