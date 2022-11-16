@@ -1,11 +1,14 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/merithr_logo.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: |-
+      Headquarters
+      2121 N. California Blvd., #290 Walnut Creek,CA 94596
+
+      Silicon Valley Office
+      333 W San Carlos St. Suite 600 San Jose, CA 95110
 ---
 
 We’d love to get in touch with you and hear your ideas and
