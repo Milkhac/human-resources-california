@@ -4,8 +4,8 @@ logo: img/merithr_logo.png
 contact_entries:
   - heading: Location
     text: |-
-      <h3 class="f4 b lh-title mb2">Headquarters</h3>
-      2121 N. California Blvd., #290 Walnut Creek,CA 94596
+      Headquarters 
+      2121 N. California Blvd., #290 Walnut Creek, CA 94596
 
       <h3 class="f4 b lh-title mb2">Silicon Valley Office</h3>
       333 W San Carlos St. Suite 600 San Jose, CA 95110
